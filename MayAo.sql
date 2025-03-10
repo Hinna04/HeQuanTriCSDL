@@ -1,0 +1,1 @@
+select * from LINKH.Khoa.dbo.Khoa
